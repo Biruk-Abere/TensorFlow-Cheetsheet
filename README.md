@@ -1,2 +1,22 @@
 # TensorFlow-Cheetsheet
-Fundamentals Of TensorFlow 
+Fundamentals Of TensorFlow , which consists of 
+      -  What are computational graphs
+      -  Graphs , Sessions and Fetches
+      -  Creating a Session and Running it.
+      -  Creating and Managing our Graphs
+      -  Datatypes in TensorFlow
+      -  Casting in TensorFlow
+      -  Tensor Arrays and Shapes
+      -  Matrix Multiplication
+      -  Names in TensorFlow
+      -  what are NameScopes
+      -  Variables and Placeholders
+      -  Changing from Tensor to numpy and Viceversa.
+      -  Creaing Random Tensors
+      -  Shuffling Random Tensors
+      -  Getting Information from Tensor
+      -  Indexing Tensors
+      -  Reshaping Tensors
+      -  Aggregating Tensors
+      -  One Hot Encoding in TensorFlow
+      -  Some other math functions 
