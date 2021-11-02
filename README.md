@@ -19,4 +19,4 @@ Fundamentals Of TensorFlow , which consists of
       -  Reshaping Tensors
       -  Aggregating Tensors
       -  One Hot Encoding in TensorFlow
-      -  Some other math functions 
+      -  Some other math functions.
